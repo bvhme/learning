@@ -2,7 +2,8 @@
 
 Thank you so much for helping us run one of our calls. Use this guide when you're emceeing a Mozilla Science Lab call!
 
-###Before the call
+## Before the call
+
 * Review the agenda - make sure you understand what is going on and how long each section should last for
   * If you have any questions, feel free to reach out to any Mozilla Science staff
 * Make sure you have a good internet connection, quiet area and a working webcam (for video calls) to take the call.
@@ -11,7 +12,8 @@ Thank you so much for helping us run one of our calls. Use this guide when you'r
   * Finalize any last minute details with each of the speakers -- do they want to be introduced in a certain way? Do you know how to pronounce their name?
   * Participants may start arriving shortly before the call. Welcome people as they arrive! Don't worry about constantly repeating yourself.
 
-###Once the call starts
+## Once the call starts
+
 * Open the event! Welcome everyone.
   * This sets the climate for the entire call. You are the focal point - help the audience get excited for the content of this call!
   * Reminder users new to Etherpad to name themselves in the top right-hand corner, and sign the roll call.
@@ -25,7 +27,6 @@ Thank you so much for helping us run one of our calls. Use this guide when you'r
   * Is this a regular call?
   * What happens on this call? For the project call, we have this summary:
 
-
   > Featuring the open source projects for science in our Collaborate platform, this call is a forum where we:
   >    1. highlight new or outstanding contributors,
   >    2. share updates and invite new contributors to our Collaborate projects and
@@ -34,7 +35,7 @@ Thank you so much for helping us run one of our calls. Use this guide when you'r
   * Who is speaking on this call?
   * How long is this call?
 
-###During the call
+## During the call
 
 Now you can dive into the agenda items. Be gracious and alert as you go through each item. Your job is to be a bridge between each section and not the focal point.
 
@@ -48,9 +49,9 @@ Now you can dive into the agenda items. Be gracious and alert as you go through 
 * For each non-verbal section (Friends of Mozilla Science, Community Updates, etc)
   * If the section is at the beginning of the meeting, read through each point on the call
   * If this is at the end of the call, read through if there's time. Otherwise, feel free to skip and encourage listeners to read on their own time.
-    * If there's a lot of time left, feel free to turn these into verbal updates if the correct people are on the call
+  * If there's a lot of time left, feel free to turn these into verbal updates if the correct people are on the call
 
-###Closing the call
+## Closing the call
 
 * Thank everyone! Speakers AND participants.
 * Let everyone know when the next call is
